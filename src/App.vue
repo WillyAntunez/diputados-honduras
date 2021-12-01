@@ -30,7 +30,6 @@ export default {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    background-color: 	#fffaf1;
   }
   main-container {
     width: 100%;
